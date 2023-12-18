@@ -13,4 +13,5 @@ const char* compararCadenas(const char* cadena1, const char* cadena2) {
 int main() {
     char str1[] = "Quieres tarta de queso?";
     char str2[] = "Porque me mandas a ordinaria?";
+    const char* resultado = compararCadenas(str1, str2);
 
