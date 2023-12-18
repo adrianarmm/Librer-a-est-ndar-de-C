@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    FILE *file = fopen("2a", "w");
+    FILE *file = fopen("1", "w");
     if (file == NULL) {
         printf("El archivo no se pudo abrir para escritura.\n");
         return 1;
@@ -9,7 +9,7 @@ int main() {
     fprintf(file, "No merezco ir a ordinaria\n");
     fclose(file);
 
-    file = fopen("2b", "r");
+    file = fopen("1b", "r");
     if (file == NULL) {
         printf("El archivo no se pudo abrir para lectura.\n");
         return 1;
