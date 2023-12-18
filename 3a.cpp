@@ -6,3 +6,6 @@ int main() {
         printf("No se pudo abrir el archivo.\n");
         return 1;
     }
+    else {
+        printf("Archivo abierto.\n");
+    }
