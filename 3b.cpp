@@ -17,4 +17,9 @@ int main() {
     char buffer[50];
     if (fgets(buffer, sizeof(buffer), file) != NULL) {
         printf("Contenido del archivo: %s\n", buffer);
-}
+    } else {
+        printf("No se pudo leer del archivo.\n");
+    }
+
+
+    }
