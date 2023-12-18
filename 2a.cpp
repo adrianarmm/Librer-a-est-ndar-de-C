@@ -8,3 +8,9 @@ const char* compararCadenas(const char* cadena1, const char* cadena2) {
     } else {
         return "Las cadenas son diferentes.";
     }
+}
+
+int main() {
+    char str1[] = "Quieres tarta de queso?";
+    char str2[] = "Porque me mandas a ordinaria?";
+
