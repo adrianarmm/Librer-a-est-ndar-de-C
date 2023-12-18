@@ -7,4 +7,5 @@ int main() {
         return 1;
     }
     fprintf(file, "No merezco ir a ordinaria\n");
+    fclose(file);
 }
