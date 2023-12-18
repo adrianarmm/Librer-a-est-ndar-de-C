@@ -9,3 +9,5 @@ int main() {
     else {
         printf("Archivo abierto.\n");
     }
+    fclose(file);
+}
