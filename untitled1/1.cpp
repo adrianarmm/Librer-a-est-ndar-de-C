@@ -7,4 +7,5 @@ int main() {
 
     printf("El valor absoluto de %d es %d.\n", numeroOriginal, numeroAbsoluto);
 
+    return 0;
 }
