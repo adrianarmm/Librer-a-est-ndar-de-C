@@ -20,6 +20,6 @@ int main() {
     } else {
         printf("No se pudo leer del archivo.\n");
     }
-
+    fclose(file);
 
     }
