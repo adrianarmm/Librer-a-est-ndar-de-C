@@ -7,7 +7,7 @@ int main() {
         return 1;
     }
     else {
-        printf("Archivo abierto.\n");
+        fclose(file);
     }
 
 
