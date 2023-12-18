@@ -15,3 +15,4 @@ int main() {
     char str2[] = "Porque me mandas a ordinaria?";
     const char* resultado = compararCadenas(str1, str2);
 
+    printf("%s\n", resultado);
