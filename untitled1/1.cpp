@@ -25,3 +25,5 @@ int main() {
 
     printf("Número aleatorio entre %d y %d: %d\n", limite_inferior, limite_superior, random_number);
 
+    return 0;
+}
