@@ -11,3 +11,5 @@ int main() {
     }
     fclose(file);
 }
+
+retuen 0;
