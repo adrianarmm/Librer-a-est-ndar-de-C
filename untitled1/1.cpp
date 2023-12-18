@@ -19,3 +19,6 @@ int main() {
 
     int limite_inferior = 0;
     int limite_superior = 100;
+
+    int rango = limite_superior - limite_inferior + 1;
+    int random_number = rand() % rango + limite_inferior;
