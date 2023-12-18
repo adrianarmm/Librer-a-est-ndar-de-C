@@ -10,5 +10,9 @@ int main() {
     fclose(file);
 
     file = fopen("2b", "r");
+    if (file == NULL) {
+        printf("El archivo no se pudo abrir para lectura.\n");
+        return 1;
+    }
 
 }
