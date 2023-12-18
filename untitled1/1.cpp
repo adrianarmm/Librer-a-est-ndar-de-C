@@ -13,3 +13,9 @@ int main() {
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
+int main() {
+    srand(time(0));
+
+    int limite_inferior = 0;
+    int limite_superior = 100;
