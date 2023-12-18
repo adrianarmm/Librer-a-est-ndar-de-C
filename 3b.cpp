@@ -8,4 +8,7 @@ int main() {
     }
     fprintf(file, "No merezco ir a ordinaria\n");
     fclose(file);
+
+    file = fopen("2b", "r");
+
 }
