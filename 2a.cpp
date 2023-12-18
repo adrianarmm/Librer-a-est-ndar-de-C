@@ -16,3 +16,4 @@ int main() {
     const char* resultado = compararCadenas(str1, str2);
 
     printf("%s\n", resultado);
+    return 0;
