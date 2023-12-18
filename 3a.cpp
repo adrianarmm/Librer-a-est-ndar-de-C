@@ -12,4 +12,4 @@ int main() {
     fclose(file);
 }
 
-retuen 0;
+return 0;
