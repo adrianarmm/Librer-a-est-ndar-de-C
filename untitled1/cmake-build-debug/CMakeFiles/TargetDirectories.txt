@@ -1,0 +1,3 @@
+/Users/adrianareyesmorera/Documents/GitHub/Librer-a-est-ndar-de-C/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/adrianareyesmorera/Documents/GitHub/Librer-a-est-ndar-de-C/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adrianareyesmorera/Documents/GitHub/Librer-a-est-ndar-de-C/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
